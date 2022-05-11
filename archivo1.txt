@@ -6,3 +6,4 @@ mensaje 11:20
 nuevo mensaje
 >>>>>>> ramaB
 creamos un msn a las 11:48
+vamos a crear otro msn a las 11:55
